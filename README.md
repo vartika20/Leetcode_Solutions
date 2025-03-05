@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/vartika20/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/vartika20/Leetcode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
