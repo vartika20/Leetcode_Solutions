@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vartika20/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/vartika20/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vartika20/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vartika20/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
