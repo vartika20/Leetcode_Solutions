@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vartika20/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vartika20/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vartika20/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
