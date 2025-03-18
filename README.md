@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vartika20/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vartika20/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vartika20/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/vartika20/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vartika20/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vartika20/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/vartika20/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
