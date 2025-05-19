@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vartika20/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
+| [3321-type-of-triangle](https://github.com/vartika20/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2649-count-total-number-of-colored-cells](https://github.com/vartika20/Leetcode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3321-type-of-triangle](https://github.com/vartika20/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/vartika20/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
