@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/vartika20/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3321-type-of-triangle](https://github.com/vartika20/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/vartika20/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vartika20/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [3639-zero-array-transformation-i](https://github.com/vartika20/Leetcode_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
