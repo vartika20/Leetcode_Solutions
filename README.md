@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vartika20/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vartika20/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vartika20/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/vartika20/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/vartika20/Leetcode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [2634-minimum-common-value](https://github.com/vartika20/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 ## String
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/vartika20/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/vartika20/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
